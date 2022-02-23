@@ -1,0 +1,7 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\obj\Debug\KerroNimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\obj\Debug\KerroNimi.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\bin\Debug\KerroNimi.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\bin\Debug\KerroNimi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\bin\Debug\KerroNimi.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\obj\Debug\KerroNimi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\KerroNimi\KerroNimi\obj\Debug\KerroNimi.pdb

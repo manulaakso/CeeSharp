@@ -1,0 +1,7 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\bin\Debug\Harjoitus_3.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\bin\Debug\Harjoitus_3.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\bin\Debug\Harjoitus_3.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\obj\Debug\Harjoitus_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\obj\Debug\Harjoitus_3.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\obj\Debug\Harjoitus_3.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoitus_3\Harjoitus_3\obj\Debug\Harjoitus_3.pdb

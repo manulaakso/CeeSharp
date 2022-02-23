@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\bin\Debug\Harjoituksia_2.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\bin\Debug\Harjoituksia_2.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\bin\Debug\Harjoituksia_2.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\obj\Debug\Harjoituksia_2.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\obj\Debug\Harjoituksia_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\obj\Debug\Harjoituksia_2.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\obj\Debug\Harjoituksia_2.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_2\Harjoituksia_2\obj\Debug\Harjoituksia_2.pdb

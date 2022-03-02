@@ -8,7 +8,7 @@ namespace Harjoituksia_sivu68
 {
     internal class Program
     {
-        Main(string[] args)
+        static void Main(string[] args)
         {
             string kysymys;
             do

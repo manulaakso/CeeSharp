@@ -1,0 +1,3 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.CoreCompileInputs.cache

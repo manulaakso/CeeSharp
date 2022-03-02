@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\obj\Debug\ConsoleApp1testi.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\obj\Debug\ConsoleApp1testi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\obj\Debug\ConsoleApp1testi.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\bin\Debug\ConsoleApp1testi.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\bin\Debug\ConsoleApp1testi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\bin\Debug\ConsoleApp1testi.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\obj\Debug\ConsoleApp1testi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\ConsoleApp1testi\ConsoleApp1testi\obj\Debug\ConsoleApp1testi.pdb

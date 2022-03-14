@@ -1,3 +1,8 @@
 C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.AssemblyReference.cache
 C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.SuggestedBindingRedirects.cache
 C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\bin\Debug\Harjoituksia_sivu69.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\bin\Debug\Harjoituksia_sivu69.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\bin\Debug\Harjoituksia_sivu69.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Harjoituksia_sivu69\Harjoituksia_sivu69\obj\Debug\Harjoituksia_sivu69.pdb

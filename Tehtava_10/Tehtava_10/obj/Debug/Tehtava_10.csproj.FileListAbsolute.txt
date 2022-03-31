@@ -1,0 +1,11 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\bin\Debug\Tehtava_10.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\bin\Debug\Tehtava_10.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\bin\Debug\Tehtava_10.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.Form1.resources
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.Properties.Resources.resources
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.csproj.GenerateResource.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\Tehtava_10\Tehtava_10\obj\Debug\Tehtava_10.pdb

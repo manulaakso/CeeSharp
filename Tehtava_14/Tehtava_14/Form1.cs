@@ -16,7 +16,7 @@ namespace Tehtava_14
         public DiaryForm()
         {
             InitializeComponent();
-            string teksti = File.ReadAllText("C:\\Users/Okehittaja/source/repos/CeeSharp/paivakirja.txt");
+            string teksti = File.ReadAllText("C:/Users/Okehittaja/source/repos/CeeSharp/paivakirja.txt");
             SyottoTB.Text = teksti;
         }
 
@@ -25,7 +25,7 @@ namespace Tehtava_14
             string teksti = "";
             teksti += SyottoTB.Text;
             teksti += " " + DateTime.Now.ToString("dd.MM.yyyy HH:mm") + "\n";
-            TextWriter text = new StreamWriter("C:\\Users/Okehittaja/source/repos/CeeSharp/paivakirja.txt");
+            TextWriter text = new StreamWriter("C:/Users/Okehittaja/source/repos/CeeSharp/paivakirja.txt");
             text.Write(teksti);
             text.Close();
             Application.Exit();

@@ -22,7 +22,7 @@ namespace Tehtava_13
         {
             VastausLB.Text = "";
             VastausLB.Visible = false;
-            string[] pojat = File.ReadAllLines("C/Users/Okehittaja/source/repos/CeeSharp/pojat.txt");
+            string[] pojat = File.ReadAllLines("C:/Users/Okehittaja/source/repos/CeeSharp/pojat.txt");
             string[] tytot = File.ReadAllLines("C:/Users/Okehittaja/source/repos/CeeSharp/tytot.txt");
             string nimi = NimiTB.Text;
             int laskurip = 1;

@@ -78,7 +78,7 @@
             this.Controls.Add(this.salasanaBT);
             this.Controls.Add(this.cryptaaBT);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Encrypt / Decrypt";
             this.ResumeLayout(false);
             this.PerformLayout();
 
